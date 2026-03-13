@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="#">French National Research Institute for Sustainable Development</a><br>Institut de Recherche pour le Développement (IRD)
 
