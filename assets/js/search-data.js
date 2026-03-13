@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "Main collaborators, current and former students and postdoctoral researchers, and consultants.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
