@@ -1,50 +1,70 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Muriel Gros-Balthazard
+  label: Research scientist in evolutionary biology
+  email: muriel.gros-balthazard@ird.fr
+  location: Montpellier, France
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  summary: Evolutionary biologist studying the diversity, domestication, and
+    evolutionary history of the date palm (Phoenix dactylifera) and other crops.
+    My research combines population genomics, archaeogenomics, archaeobotany,
+    and ethnobotany to understand how crop diversity emerged and evolved
+    through interactions between humans and plants.
+    
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+    - network: Google Scholar
+      username: CS_CzwsAAAAJ
+    - network: ORCID
+      username: 0000-0002-2587-3946
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Institut de Recherche pour le Développement
+    city: Montpellier
+    postalCode: 34394
+    countryCode: FR
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      Education:
+      - institution: Université de Montpellier
+        area: Biology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2009
+        end_date: 2012
+        summary: >
+          Origins and evolutionary history of the date palm
+          (Phoenix dactylifera): contributions from genetics
+          and morphometry.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Université Joseph Fourier, Grenoble
+        studyType: MSc Biodiversity, Ecology and Environment
+        start_date: 2006
+        end_date: 2009
+
+      - institution: University of Sussex
+        studyType: Erasmus exchange, Biology
+        start_date: 2005
+        end_date: 2006
+
+    Academic positions:
+      - company: Institut de Recherche pour le Développement (IRD)
+        position: Research scientist
+        location: Montpellier, France
+        start_date: 2021
+
+      - company: New York University Abu Dhabi
+        position: Senior research scientist and project coordinator
+        location: Abu Dhabi, UAE
+        start_date: 2018
+        end_date: 2020
+
+      - company: SupAgro Montpellier
+        position: Marie Skłodowska-Curie postdoctoral fellow
+        start_date: 2015
+        end_date: 2016
+
+      - company: University of Fribourg
+        position: Postdoctoral researcher
+        start_date: 2013
+        end_date: 2014
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
