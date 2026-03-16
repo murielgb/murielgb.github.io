@@ -23,7 +23,7 @@ cv:
     countryCode: FR
 
   sections:
-      Education:
+    Education:
       - institution: Université de Montpellier
         area: Biology
         studyType: PhD
