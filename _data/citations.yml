@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-30'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -26,7 +26,7 @@ papers:
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 151
+    citations: 152
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -82,7 +82,7 @@ papers:
     title: "Practices, Categorization, and Agrobiodiversity: Date Palms in al-\u02BFUl\u0101 Oasis (Saudi Arabia)"
     year: '2025'
   CS_CzwsAAAAJ:M3NEmzRMIkIC:
-    citations: 17
+    citations: 19
     title: "What lies behind a fruit crop variety name? A case study of the barn\u012B date palm from al\u2010\u2018Ul\u0101 oasis, Saudi Arabia"
     year: '2023'
   CS_CzwsAAAAJ:M3ejUd6NZC8C:
@@ -121,6 +121,10 @@ papers:
     citations: 27
     title: Paleogenetic analyses reveal unsuspected phylogenetic affinities between mice and the extinct Malpaisomys insularis, an endemic rodent of the Canaries
     year: '2012'
+  CS_CzwsAAAAJ:SeFeTyx0c_EC:
+    citations: 0
+    title: 'The lasting heritage of the date palm: from ancient cultivation to a sustainable future'
+    year: '2026'
   CS_CzwsAAAAJ:TFP_iSt0sucC:
     citations: 0
     title: "Mots-cl\xE9s\u2013transform\xE9es elliptiques de Fourier"
@@ -134,7 +138,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 129
+    citations: 130
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -150,7 +154,7 @@ papers:
     title: 'Hybridization in the genus Phoenix: a review.'
     year: '2013'
   CS_CzwsAAAAJ:WF5omc3nYNoC:
-    citations: 127
+    citations: 128
     title: Genetic structure of the date palm (Phoenix dactylifera) in the Old World reveals a strong differentiation between eastern and western populations
     year: '2015'
   CS_CzwsAAAAJ:Wp0gIr-vW9MC:
@@ -165,6 +169,10 @@ papers:
     citations: 1
     title: Integration of ethnobotany and population genetics uncovers the agrobiodiversity of date palms of Siwa Oasis (Egypt) and their importance to the evolutionary history of the species
     year: '2019'
+  CS_CzwsAAAAJ:ZHo1McVdvXMC:
+    citations: 0
+    title: 'Ethnographic, genetic, and morphometric analyses of the date palm agrobiodiversity in al-Ula oasis: al-Ula DPA Project Final Report (2019-2025)'
+    year: '2025'
   CS_CzwsAAAAJ:ZeXyd9-uunAC:
     citations: 7
     title: "Genomic Insights into Date Palm Origins. Genes(Basel). 9, 1\u201314"
@@ -178,7 +186,7 @@ papers:
     title: "G\xE9ographie\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:_kc_bZDykSQC:
-    citations: 63
+    citations: 64
     title: Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies
     year: '2020'
   CS_CzwsAAAAJ:bEWYMUwI8FkC:
@@ -194,7 +202,7 @@ papers:
     title: "Keywords\u2013Phoenix dactylifera"
     year: Unknown Year
   CS_CzwsAAAAJ:g5m5HwL7SMYC:
-    citations: 1
+    citations: 2
     title: Convolutional neural networks and outline analyses for archaeobotanical studies of domestication and subspecific identification
     year: '2025'
   CS_CzwsAAAAJ:hC7cP41nSMkC:
@@ -226,7 +234,7 @@ papers:
     title: "Mots-cl\xE9s\u2013agrobiodiversit\xE9"
     year: Unknown Year
   CS_CzwsAAAAJ:kNdYIx-mwKoC:
-    citations: 77
+    citations: 78
     title: Evolutionary transcriptomics reveals the origins of olives and the genomic changes associated with their domestication
     year: '2019'
   CS_CzwsAAAAJ:k_IJM867U9cC:
