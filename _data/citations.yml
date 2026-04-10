@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-10'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -9,12 +9,16 @@ papers:
     citations: 2
     title: "Genomics and morphometry of herbarium specimens elucidate the origin of the Cape Verde date palm (Phoenix atlantica A.Chev.) and highlight its agronomic \u2026"
     year: '2025'
+  CS_CzwsAAAAJ:3s1wT3WcHBgC:
+    citations: 0
+    title: Working list of named types of date palms cultivated in al-'Ula oasis (KSA)[rapport]
+    year: '2023'
   CS_CzwsAAAAJ:4JMBOYKVnBMC:
     citations: 0
     title: "G\xE9ographie\u2013golfe Persique"
     year: Unknown Year
   CS_CzwsAAAAJ:5nxA0vEk-isC:
-    citations: 50
+    citations: 51
     title: Genomic Insights into Date Palm Origins
     year: '2018'
   CS_CzwsAAAAJ:70eg2SAEIzsC:
@@ -26,7 +30,7 @@ papers:
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 152
+    citations: 153
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -70,7 +74,7 @@ papers:
     title: 'Domestication of date palms in Siwa oasis and across the Middle East and North Africa: articulate the scales of ethnography and domestication over the long term'
     year: '2019'
   CS_CzwsAAAAJ:L8Ckcad2t8MC:
-    citations: 33
+    citations: 35
     title: Molecular clocks and archeogenomics of a late period Egyptian date palm leaf reveal introgression from wild relatives and add timestamps on the domestication
     year: '2021'
   CS_CzwsAAAAJ:LkGwnXOMwfcC:
@@ -138,7 +142,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 130
+    citations: 129
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -154,7 +158,7 @@ papers:
     title: 'Hybridization in the genus Phoenix: a review.'
     year: '2013'
   CS_CzwsAAAAJ:WF5omc3nYNoC:
-    citations: 128
+    citations: 129
     title: Genetic structure of the date palm (Phoenix dactylifera) in the Old World reveals a strong differentiation between eastern and western populations
     year: '2015'
   CS_CzwsAAAAJ:Wp0gIr-vW9MC:
@@ -186,7 +190,7 @@ papers:
     title: "G\xE9ographie\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:_kc_bZDykSQC:
-    citations: 64
+    citations: 63
     title: Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies
     year: '2020'
   CS_CzwsAAAAJ:bEWYMUwI8FkC:
@@ -262,7 +266,7 @@ papers:
     title: "Mots-cl\xE9s\u2013Phoenix spp."
     year: Unknown Year
   CS_CzwsAAAAJ:ns9cj8rnVeAC:
-    citations: 21
+    citations: 22
     title: "Orphan crops of archaeology\u2010based crop history research"
     year: '2025'
   CS_CzwsAAAAJ:pqnbT2bcN3wC:
