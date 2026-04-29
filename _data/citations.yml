@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-29'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: "G\xE9ographie\u2013golfe Persique"
     year: Unknown Year
   CS_CzwsAAAAJ:5nxA0vEk-isC:
-    citations: 51
+    citations: 52
     title: Genomic Insights into Date Palm Origins
     year: '2018'
   CS_CzwsAAAAJ:70eg2SAEIzsC:
@@ -42,11 +42,11 @@ papers:
     title: 'Wild Date Palms (Phoenix dactylifera L.) Found in Oman: Evidence From Genetic and Morphometric Analyses'
     year: '2012'
   CS_CzwsAAAAJ:BqipwSGYUEgC:
-    citations: 6
+    citations: 7
     title: Deep learning versus geometric morphometrics for archaeobotanical domestication study and subspecific identification
     year: '2023'
   CS_CzwsAAAAJ:GnPB-g6toBAC:
-    citations: 8
+    citations: 9
     title: 'Origins and evolution of oasis agriculture in the Sahara: Evidence from morphometric analyses of archaeological date palm seeds'
     year: '2024'
   CS_CzwsAAAAJ:HDshCWvjkbEC:
@@ -86,7 +86,7 @@ papers:
     title: "Practices, Categorization, and Agrobiodiversity: Date Palms in al-\u02BFUl\u0101 Oasis (Saudi Arabia)"
     year: '2025'
   CS_CzwsAAAAJ:M3NEmzRMIkIC:
-    citations: 20
+    citations: 22
     title: "What lies behind a fruit crop variety name? A case study of the barn\u012B date palm from al\u2010\u2018Ul\u0101 oasis, Saudi Arabia"
     year: '2023'
   CS_CzwsAAAAJ:M3ejUd6NZC8C:
@@ -142,7 +142,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 131
+    citations: 132
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -198,7 +198,7 @@ papers:
     title: "Keywords\u2013agrobiodiversity"
     year: Unknown Year
   CS_CzwsAAAAJ:d1gkVwhDpl0C:
-    citations: 94
+    citations: 95
     title: 'Biogeography of the Date Palm (Phoenix dactylifera L., Arecaceae): Insights on the Origin and on the Structure of Modern Diversity'
     year: '2011'
   CS_CzwsAAAAJ:e5wmG9Sq2KIC:
@@ -246,7 +246,7 @@ papers:
     title: "Mots-cl\xE9s\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:lSLTfruPkqcC:
-    citations: 7
+    citations: 9
     title: Absence of Gigasporales and rarity of spores in a hot desert revealed by a multimethod approach
     year: '2024'
   CS_CzwsAAAAJ:ldfaerwXgEUC:
@@ -286,7 +286,7 @@ papers:
     title: "Keywords\u2013Elliptic Fourier Transforms"
     year: Unknown Year
   CS_CzwsAAAAJ:u5HHmVD_uO8C:
-    citations: 148
+    citations: 149
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
@@ -294,7 +294,7 @@ papers:
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
-    citations: 7
+    citations: 8
     title: Digging deeper into the impacts of different soil water systems on the date palm root architecture and associated fungal communities
     year: '2025'
   CS_CzwsAAAAJ:zYLM7Y9cAGgC:
