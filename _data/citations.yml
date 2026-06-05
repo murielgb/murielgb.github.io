@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-05'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: "G\xE9ographie\u2013golfe Persique"
     year: Unknown Year
   CS_CzwsAAAAJ:5nxA0vEk-isC:
-    citations: 51
+    citations: 52
     title: Genomic Insights into Date Palm Origins
     year: '2018'
   CS_CzwsAAAAJ:70eg2SAEIzsC:
@@ -78,7 +78,7 @@ papers:
     title: Molecular clocks and archeogenomics of a late period Egyptian date palm leaf reveal introgression from wild relatives and add timestamps on the domestication
     year: '2021'
   CS_CzwsAAAAJ:LkGwnXOMwfcC:
-    citations: 26
+    citations: 27
     title: Genetic diversity of Southeastern Nigerien date palms reveals a secondary structure within Western populations
     year: '2017'
   CS_CzwsAAAAJ:M05iB0D1s5AC:
@@ -86,7 +86,7 @@ papers:
     title: "Practices, Categorization, and Agrobiodiversity: Date Palms in al-\u02BFUl\u0101 Oasis (Saudi Arabia)"
     year: '2025'
   CS_CzwsAAAAJ:M3NEmzRMIkIC:
-    citations: 23
+    citations: 22
     title: "What lies behind a fruit crop variety name? A case study of the barn\u012B date palm from al\u2010\u2018Ul\u0101 oasis, Saudi Arabia"
     year: '2023'
   CS_CzwsAAAAJ:M3ejUd6NZC8C:
@@ -150,7 +150,7 @@ papers:
     title: 'Phoenix dactylifera and P. sylvestris in Northwestern India: A Glimpse of their Complex Relationships.'
     year: '2013'
   CS_CzwsAAAAJ:UebtZRa9Y70C:
-    citations: 115
+    citations: 116
     title: The discovery of wild date palms in Oman reveals a complex domestication history involving centers in the Middle East and Africa
     year: '2017'
   CS_CzwsAAAAJ:W7OEmFMy1HYC:
@@ -206,11 +206,11 @@ papers:
     title: "Keywords\u2013Phoenix dactylifera"
     year: Unknown Year
   CS_CzwsAAAAJ:g5m5HwL7SMYC:
-    citations: 2
+    citations: 3
     title: Convolutional neural networks and outline analyses for archaeobotanical studies of domestication and subspecific identification
     year: '2025'
   CS_CzwsAAAAJ:hC7cP41nSMkC:
-    citations: 42
+    citations: 43
     title: A Brief History of the Origin of Domesticated Date Palms
     year: '2021'
   CS_CzwsAAAAJ:hFOr9nPyWt4C:
