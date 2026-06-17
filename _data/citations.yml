@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-17'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 155
+    citations: 157
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: 'Wild Date Palms (Phoenix dactylifera L.) Found in Oman: Evidence From Genetic and Morphometric Analyses'
     year: '2012'
   CS_CzwsAAAAJ:BqipwSGYUEgC:
-    citations: 7
+    citations: 8
     title: Deep learning versus geometric morphometrics for archaeobotanical domestication study and subspecific identification
     year: '2023'
   CS_CzwsAAAAJ:GnPB-g6toBAC:
@@ -74,7 +74,7 @@ papers:
     title: 'Domestication of date palms in Siwa oasis and across the Middle East and North Africa: articulate the scales of ethnography and domestication over the long term'
     year: '2019'
   CS_CzwsAAAAJ:L8Ckcad2t8MC:
-    citations: 35
+    citations: 36
     title: Molecular clocks and archeogenomics of a late period Egyptian date palm leaf reveal introgression from wild relatives and add timestamps on the domestication
     year: '2021'
   CS_CzwsAAAAJ:LkGwnXOMwfcC:
@@ -142,7 +142,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 133
+    citations: 134
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -150,7 +150,7 @@ papers:
     title: 'Phoenix dactylifera and P. sylvestris in Northwestern India: A Glimpse of their Complex Relationships.'
     year: '2013'
   CS_CzwsAAAAJ:UebtZRa9Y70C:
-    citations: 116
+    citations: 117
     title: The discovery of wild date palms in Oman reveals a complex domestication history involving centers in the Middle East and Africa
     year: '2017'
   CS_CzwsAAAAJ:W7OEmFMy1HYC:
@@ -158,7 +158,7 @@ papers:
     title: 'Hybridization in the genus Phoenix: a review.'
     year: '2013'
   CS_CzwsAAAAJ:WF5omc3nYNoC:
-    citations: 129
+    citations: 130
     title: Genetic structure of the date palm (Phoenix dactylifera) in the Old World reveals a strong differentiation between eastern and western populations
     year: '2015'
   CS_CzwsAAAAJ:Wp0gIr-vW9MC:
@@ -190,7 +190,7 @@ papers:
     title: "G\xE9ographie\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:_kc_bZDykSQC:
-    citations: 65
+    citations: 67
     title: Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies
     year: '2020'
   CS_CzwsAAAAJ:bEWYMUwI8FkC:
@@ -198,7 +198,7 @@ papers:
     title: "Keywords\u2013agrobiodiversity"
     year: Unknown Year
   CS_CzwsAAAAJ:d1gkVwhDpl0C:
-    citations: 95
+    citations: 96
     title: 'Biogeography of the Date Palm (Phoenix dactylifera L., Arecaceae): Insights on the Origin and on the Structure of Modern Diversity'
     year: '2011'
   CS_CzwsAAAAJ:e5wmG9Sq2KIC:
@@ -210,7 +210,7 @@ papers:
     title: Convolutional neural networks and outline analyses for archaeobotanical studies of domestication and subspecific identification
     year: '2025'
   CS_CzwsAAAAJ:hC7cP41nSMkC:
-    citations: 43
+    citations: 44
     title: A Brief History of the Origin of Domesticated Date Palms
     year: '2021'
   CS_CzwsAAAAJ:hFOr9nPyWt4C:
@@ -222,7 +222,7 @@ papers:
     title: Domestication of date palms in Siwa Oasis and across the Middle East and North Africa
     year: Unknown Year
   CS_CzwsAAAAJ:hqOjcs7Dif8C:
-    citations: 29
+    citations: 30
     title: 'Date palm agrobiodiversity (Phoenix dactylifera L.) in Siwa Oasis, Egypt: Combining ethnography, morphometry, and genetics'
     year: '2018'
   CS_CzwsAAAAJ:iH-uZ7U-co4C:
@@ -238,7 +238,7 @@ papers:
     title: "Mots-cl\xE9s\u2013agrobiodiversit\xE9"
     year: Unknown Year
   CS_CzwsAAAAJ:kNdYIx-mwKoC:
-    citations: 79
+    citations: 80
     title: Evolutionary transcriptomics reveals the origins of olives and the genomic changes associated with their domestication
     year: '2019'
   CS_CzwsAAAAJ:k_IJM867U9cC:
@@ -250,7 +250,7 @@ papers:
     title: Absence of Gigasporales and rarity of spores in a hot desert revealed by a multimethod approach
     year: '2024'
   CS_CzwsAAAAJ:ldfaerwXgEUC:
-    citations: 3
+    citations: 4
     title: DateBack, an evolving open-access repository of Phoenix archaeobotanical data supporting new perspectives on the history of date palm cultivation
     year: '2025'
   CS_CzwsAAAAJ:mB3voiENLucC:
@@ -266,7 +266,7 @@ papers:
     title: "Mots-cl\xE9s\u2013Phoenix spp."
     year: Unknown Year
   CS_CzwsAAAAJ:ns9cj8rnVeAC:
-    citations: 23
+    citations: 24
     title: "Orphan crops of archaeology\u2010based crop history research"
     year: '2025'
   CS_CzwsAAAAJ:pqnbT2bcN3wC:
@@ -274,7 +274,7 @@ papers:
     title: "al-\u02BFUl\u0101 DPA Project Final Report (2019\u20132025), Ethnographic, genetic, and morphometric analyses of the date palm agrobiodiversity in al-\u02BFUl\u0101 oasis"
     year: '2025'
   CS_CzwsAAAAJ:qUcmZB5y_30C:
-    citations: 19
+    citations: 20
     title: 'Systematics and Evolution of the Genus Phoenix: Towards Understanding Date Palm Origins'
     year: '2021'
   CS_CzwsAAAAJ:qjMakFHDy7sC:
@@ -286,11 +286,11 @@ papers:
     title: "Keywords\u2013Elliptic Fourier Transforms"
     year: Unknown Year
   CS_CzwsAAAAJ:u5HHmVD_uO8C:
-    citations: 150
+    citations: 151
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
-    citations: 74
+    citations: 76
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
