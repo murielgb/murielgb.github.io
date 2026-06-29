@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-29'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 157
+    citations: 156
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -142,7 +142,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 134
+    citations: 135
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -150,11 +150,11 @@ papers:
     title: 'Phoenix dactylifera and P. sylvestris in Northwestern India: A Glimpse of their Complex Relationships.'
     year: '2013'
   CS_CzwsAAAAJ:UebtZRa9Y70C:
-    citations: 117
+    citations: 116
     title: The discovery of wild date palms in Oman reveals a complex domestication history involving centers in the Middle East and Africa
     year: '2017'
   CS_CzwsAAAAJ:W7OEmFMy1HYC:
-    citations: 73
+    citations: 74
     title: 'Hybridization in the genus Phoenix: a review.'
     year: '2013'
   CS_CzwsAAAAJ:WF5omc3nYNoC:
@@ -222,7 +222,7 @@ papers:
     title: Domestication of date palms in Siwa Oasis and across the Middle East and North Africa
     year: Unknown Year
   CS_CzwsAAAAJ:hqOjcs7Dif8C:
-    citations: 30
+    citations: 29
     title: 'Date palm agrobiodiversity (Phoenix dactylifera L.) in Siwa Oasis, Egypt: Combining ethnography, morphometry, and genetics'
     year: '2018'
   CS_CzwsAAAAJ:iH-uZ7U-co4C:
@@ -266,7 +266,7 @@ papers:
     title: "Mots-cl\xE9s\u2013Phoenix spp."
     year: Unknown Year
   CS_CzwsAAAAJ:ns9cj8rnVeAC:
-    citations: 24
+    citations: 25
     title: "Orphan crops of archaeology\u2010based crop history research"
     year: '2025'
   CS_CzwsAAAAJ:pqnbT2bcN3wC:
@@ -286,11 +286,11 @@ papers:
     title: "Keywords\u2013Elliptic Fourier Transforms"
     year: Unknown Year
   CS_CzwsAAAAJ:u5HHmVD_uO8C:
-    citations: 151
+    citations: 150
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
-    citations: 76
+    citations: 75
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
