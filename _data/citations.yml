@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-13'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
     title: "Is Barn\u012B, a date palm cultivated in the oasis of al-\u2018Ul\u0101, a true-to-type cultivar or an ethnovariety? Arguments from ethnographic and genetic data"
     year: '2021'
   CS_CzwsAAAAJ:2P1L_qKh6hAC:
-    citations: 2
+    citations: 3
     title: "Genomics and morphometry of herbarium specimens elucidate the origin of the Cape Verde date palm (Phoenix atlantica A.Chev.) and highlight its agronomic \u2026"
     year: '2025'
   CS_CzwsAAAAJ:3s1wT3WcHBgC:
@@ -18,7 +18,7 @@ papers:
     title: "G\xE9ographie\u2013golfe Persique"
     year: Unknown Year
   CS_CzwsAAAAJ:5nxA0vEk-isC:
-    citations: 52
+    citations: 53
     title: Genomic Insights into Date Palm Origins
     year: '2018'
   CS_CzwsAAAAJ:70eg2SAEIzsC:
@@ -26,11 +26,11 @@ papers:
     title: 'Origins and evolution of oasis agriculture in the Sahara: Evidence from morphometric analyses of archaeological date palm seeds'
     year: Unknown Year
   CS_CzwsAAAAJ:7PzlFSSx8tAC:
-    citations: 39
+    citations: 40
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 156
+    citations: 158
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Deep learning versus geometric morphometrics for archaeobotanical domestication study and subspecific identification
     year: '2023'
   CS_CzwsAAAAJ:GnPB-g6toBAC:
-    citations: 9
+    citations: 10
     title: 'Origins and evolution of oasis agriculture in the Sahara: Evidence from morphometric analyses of archaeological date palm seeds'
     year: '2024'
   CS_CzwsAAAAJ:HDshCWvjkbEC:
@@ -90,7 +90,7 @@ papers:
     title: "What lies behind a fruit crop variety name? A case study of the barn\u012B date palm from al\u2010\u2018Ul\u0101 oasis, Saudi Arabia"
     year: '2023'
   CS_CzwsAAAAJ:M3ejUd6NZC8C:
-    citations: 37
+    citations: 38
     title: "On the necessity of combining ethnobotany and genetics to assess agrobiodiversity and its evolution in crops: A case study on date palms (Phoenix dactylifera L \u2026"
     year: '2020'
   CS_CzwsAAAAJ:NMxIlDl6LWMC:
@@ -118,7 +118,7 @@ papers:
     title: "Keywords\u2013seed shape"
     year: Unknown Year
   CS_CzwsAAAAJ:RYcK_YlVTxYC:
-    citations: 4
+    citations: 5
     title: Leveraging the potential of charred archaeological seeds for reconstructing the history of date palm
     year: '2024'
   CS_CzwsAAAAJ:Se3iqnhoufwC:
@@ -150,7 +150,7 @@ papers:
     title: 'Phoenix dactylifera and P. sylvestris in Northwestern India: A Glimpse of their Complex Relationships.'
     year: '2013'
   CS_CzwsAAAAJ:UebtZRa9Y70C:
-    citations: 116
+    citations: 118
     title: The discovery of wild date palms in Oman reveals a complex domestication history involving centers in the Middle East and Africa
     year: '2017'
   CS_CzwsAAAAJ:W7OEmFMy1HYC:
@@ -190,7 +190,7 @@ papers:
     title: "G\xE9ographie\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:_kc_bZDykSQC:
-    citations: 67
+    citations: 70
     title: Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies
     year: '2020'
   CS_CzwsAAAAJ:bEWYMUwI8FkC:
@@ -210,7 +210,7 @@ papers:
     title: Convolutional neural networks and outline analyses for archaeobotanical studies of domestication and subspecific identification
     year: '2025'
   CS_CzwsAAAAJ:hC7cP41nSMkC:
-    citations: 44
+    citations: 46
     title: A Brief History of the Origin of Domesticated Date Palms
     year: '2021'
   CS_CzwsAAAAJ:hFOr9nPyWt4C:
@@ -222,7 +222,7 @@ papers:
     title: Domestication of date palms in Siwa Oasis and across the Middle East and North Africa
     year: Unknown Year
   CS_CzwsAAAAJ:hqOjcs7Dif8C:
-    citations: 29
+    citations: 30
     title: 'Date palm agrobiodiversity (Phoenix dactylifera L.) in Siwa Oasis, Egypt: Combining ethnography, morphometry, and genetics'
     year: '2018'
   CS_CzwsAAAAJ:iH-uZ7U-co4C:
@@ -238,7 +238,7 @@ papers:
     title: "Mots-cl\xE9s\u2013agrobiodiversit\xE9"
     year: Unknown Year
   CS_CzwsAAAAJ:kNdYIx-mwKoC:
-    citations: 80
+    citations: 81
     title: Evolutionary transcriptomics reveals the origins of olives and the genomic changes associated with their domestication
     year: '2019'
   CS_CzwsAAAAJ:k_IJM867U9cC:
@@ -250,7 +250,7 @@ papers:
     title: Absence of Gigasporales and rarity of spores in a hot desert revealed by a multimethod approach
     year: '2024'
   CS_CzwsAAAAJ:ldfaerwXgEUC:
-    citations: 4
+    citations: 5
     title: DateBack, an evolving open-access repository of Phoenix archaeobotanical data supporting new perspectives on the history of date palm cultivation
     year: '2025'
   CS_CzwsAAAAJ:mB3voiENLucC:
@@ -266,7 +266,7 @@ papers:
     title: "Mots-cl\xE9s\u2013Phoenix spp."
     year: Unknown Year
   CS_CzwsAAAAJ:ns9cj8rnVeAC:
-    citations: 25
+    citations: 26
     title: "Orphan crops of archaeology\u2010based crop history research"
     year: '2025'
   CS_CzwsAAAAJ:pqnbT2bcN3wC:
@@ -285,12 +285,16 @@ papers:
     citations: 0
     title: "Keywords\u2013Elliptic Fourier Transforms"
     year: Unknown Year
+  CS_CzwsAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: 'Ancient date palm cultivation in the southern Levant: a morphometric analysis of archaeological seeds from the Negev desert'
+    year: '2026'
   CS_CzwsAAAAJ:u5HHmVD_uO8C:
-    citations: 150
+    citations: 152
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
-    citations: 75
+    citations: 77
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
