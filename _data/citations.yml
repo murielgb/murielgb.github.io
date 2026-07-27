@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-27'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: The genomes of ancient date palms germinated from 2,000 y old seeds
     year: '2021'
   CS_CzwsAAAAJ:8k81kl-MbHgC:
-    citations: 158
+    citations: 159
     title: Cross-species hybridization and the origin of North African date palms
     year: '2019'
   CS_CzwsAAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Deep learning versus geometric morphometrics for archaeobotanical domestication study and subspecific identification
     year: '2023'
   CS_CzwsAAAAJ:GnPB-g6toBAC:
-    citations: 10
+    citations: 12
     title: 'Origins and evolution of oasis agriculture in the Sahara: Evidence from morphometric analyses of archaeological date palm seeds'
     year: '2024'
   CS_CzwsAAAAJ:HDshCWvjkbEC:
@@ -90,7 +90,7 @@ papers:
     title: "What lies behind a fruit crop variety name? A case study of the barn\u012B date palm from al\u2010\u2018Ul\u0101 oasis, Saudi Arabia"
     year: '2023'
   CS_CzwsAAAAJ:M3ejUd6NZC8C:
-    citations: 38
+    citations: 41
     title: "On the necessity of combining ethnobotany and genetics to assess agrobiodiversity and its evolution in crops: A case study on date palms (Phoenix dactylifera L \u2026"
     year: '2020'
   CS_CzwsAAAAJ:NMxIlDl6LWMC:
@@ -142,7 +142,7 @@ papers:
     title: In silico mining of microsatellites in coding sequences of the date palm (Arecaceae) genome, characterization, and transferability
     year: '2014'
   CS_CzwsAAAAJ:ULOm3_A8WrAC:
-    citations: 135
+    citations: 136
     title: Genome-wide association mapping of date palm fruit traits
     year: '2019'
   CS_CzwsAAAAJ:UeHWp8X0CEIC:
@@ -158,7 +158,7 @@ papers:
     title: 'Hybridization in the genus Phoenix: a review.'
     year: '2013'
   CS_CzwsAAAAJ:WF5omc3nYNoC:
-    citations: 130
+    citations: 132
     title: Genetic structure of the date palm (Phoenix dactylifera) in the Old World reveals a strong differentiation between eastern and western populations
     year: '2015'
   CS_CzwsAAAAJ:Wp0gIr-vW9MC:
@@ -190,7 +190,7 @@ papers:
     title: "G\xE9ographie\u2013\xC9gypte"
     year: Unknown Year
   CS_CzwsAAAAJ:_kc_bZDykSQC:
-    citations: 70
+    citations: 71
     title: Origins and insights into the historic Judean date palm based on genetic analysis of germinated ancient seeds and morphometric studies
     year: '2020'
   CS_CzwsAAAAJ:bEWYMUwI8FkC:
@@ -198,7 +198,7 @@ papers:
     title: "Keywords\u2013agrobiodiversity"
     year: Unknown Year
   CS_CzwsAAAAJ:d1gkVwhDpl0C:
-    citations: 96
+    citations: 94
     title: 'Biogeography of the Date Palm (Phoenix dactylifera L., Arecaceae): Insights on the Origin and on the Structure of Modern Diversity'
     year: '2011'
   CS_CzwsAAAAJ:e5wmG9Sq2KIC:
@@ -290,11 +290,11 @@ papers:
     title: 'Ancient date palm cultivation in the southern Levant: a morphometric analysis of archaeological seeds from the Negev desert'
     year: '2026'
   CS_CzwsAAAAJ:u5HHmVD_uO8C:
-    citations: 152
+    citations: 153
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
-    citations: 77
+    citations: 76
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
