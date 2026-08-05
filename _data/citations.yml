@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-05'
 papers:
   CS_CzwsAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: 'Wild Date Palms (Phoenix dactylifera L.) Found in Oman: Evidence From Genetic and Morphometric Analyses'
     year: '2012'
   CS_CzwsAAAAJ:BqipwSGYUEgC:
-    citations: 7
+    citations: 8
     title: Deep learning versus geometric morphometrics for archaeobotanical domestication study and subspecific identification
     year: '2023'
   CS_CzwsAAAAJ:GnPB-g6toBAC:
@@ -122,7 +122,7 @@ papers:
     title: Leveraging the potential of charred archaeological seeds for reconstructing the history of date palm
     year: '2024'
   CS_CzwsAAAAJ:Se3iqnhoufwC:
-    citations: 28
+    citations: 29
     title: Paleogenetic analyses reveal unsuspected phylogenetic affinities between mice and the extinct Malpaisomys insularis, an endemic rodent of the Canaries
     year: '2012'
   CS_CzwsAAAAJ:SeFeTyx0c_EC:
@@ -278,7 +278,7 @@ papers:
     title: 'Systematics and Evolution of the Genus Phoenix: Towards Understanding Date Palm Origins'
     year: '2021'
   CS_CzwsAAAAJ:qjMakFHDy7sC:
-    citations: 20
+    citations: 21
     title: "Sur les origines, l'histoire \xE9volutive et biog\xE9ographique du palmier-dattier (Phoenix dactylifera L.): l'apport de la g\xE9n\xE9tique et de la morphom\xE9trie"
     year: '2012'
   CS_CzwsAAAAJ:r0BpntZqJG4C:
@@ -294,7 +294,7 @@ papers:
     title: Insights into the historical biogeography of the date palm (Phoenix dactylifera L.) using geometric morphometry of modern and ancient seeds
     year: '2012'
   CS_CzwsAAAAJ:ufrVoPGSRksC:
-    citations: 73
+    citations: 74
     title: 'The Domestication Syndrome in Phoenix dactylifera Seeds: Toward the Identification of Wild Date Palm Populations'
     year: '2016'
   CS_CzwsAAAAJ:vV6vV6tmYwMC:
