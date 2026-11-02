@@ -5,10 +5,10 @@ cv:
   location: Montpellier, France
   image: ""
   summary: Evolutionary biologist studying the diversity, domestication, and
-    evolutionary history of the date palm (Phoenix dactylifera) and other crops.
-    My research combines population genomics, archaeogenomics, archaeobotany,
-    and ethnobotany to understand how crop diversity emerged and evolved
-    through interactions between humans and plants.
+    evolutionary history of the date palm (Phoenix dactylifera) and its wild
+    relatives. My research combines population genomics, archaeogenomics,
+    archaeobotany, seed morphometrics, and ethnobotany to understand how crop
+    diversity emerged and evolved through interactions between humans and plants.
 
   social_networks:
     - network: Google Scholar
@@ -17,53 +17,166 @@ cv:
       username: 0000-0002-2587-3946
 
   address:
-    street: Institut de Recherche pour le Développement
+    street: IRD, UMR DIADE, 911 Avenue Agropolis
     city: Montpellier
     postalCode: 34394
     countryCode: FR
 
   sections:
+    Experience:
+      - company: Institut de Recherche pour le Développement (IRD), UMR DIADE
+        position: Research scientist (Chargée de recherche)
+        location: Montpellier, France
+        start_date: 2020
+      - company: New York University Abu Dhabi, Purugganan Lab
+        position: Research scientist and coordinator of the Date Palm Genomics project
+        location: Abu Dhabi, United Arab Emirates
+        start_date: 2018
+        end_date: 2020
+      - company: UMR AGAP, SupAgro Montpellier
+        position: Marie Skłodowska-Curie postdoctoral fellow
+        location: Montpellier, France
+        start_date: 2015
+        end_date: 2016
+        summary: Genomic changes associated with olive domestication.
+      - company: University of Fribourg, Wegmann Lab
+        position: Postdoctoral researcher
+        location: Fribourg, Switzerland
+        start_date: 2013
+        end_date: 2014
+        summary: Genomics and domestication of the date palm.
+
     Education:
       - institution: Université de Montpellier
         area: Biology
         studyType: Habilitation à diriger des recherches (HDR)
         start_date: 2025
         end_date: 2025
-        summary: >
-          Histoire et durabilité des agrosystèmes oasiens.
-          L'agrobiodiversité conjuguée à tous les temps.
-      - institution: Université de Montpellier
+        summary: Histoire et durabilité des agrosystèmes oasiens. L'agrobiodiversité conjuguée à tous les temps.
+      - institution: Université Montpellier II (ISEM and IRD)
         area: Biology
         studyType: PhD
+        location: Montpellier, France
         start_date: 2009
         end_date: 2012
-        summary: >
-          Origins and evolutionary history of the date palm
-          (Phoenix dactylifera): contributions from genetics
-          and morphometry.
-      - institution: Université Joseph Fourier, Grenoble
-        studyType: MSc Biodiversity, Ecology and Environment
+        summary: On the origins, evolutionary and biogeographic history of the date palm (Phoenix dactylifera L.). Contributions from genetics and morphometrics.
+      - institution: Université Joseph Fourier, Grenoble, and Université Montpellier II
+        area: Biodiversity, Ecology and Environment; Palaeontology, Palaeobiology and Phylogeny (M1)
+        studyType: MSc
         start_date: 2006
         end_date: 2009
-      - institution: University of Sussex
-        studyType: Erasmus exchange, Biology
+      - institution: University of Sussex, United Kingdom
+        area: General Biology (Erasmus exchange)
+        studyType: BSc (3rd year)
         start_date: 2005
         end_date: 2006
-    Academic positions:
-      - company: Institut de Recherche pour le Développement (IRD)
-        position: Research scientist
-        location: Montpellier, France
-        start_date: 2021
-      - company: New York University Abu Dhabi
-        position: Senior research scientist and project coordinator
-        location: Abu Dhabi, UAE
-        start_date: 2018
-        end_date: 2020
-      - company: SupAgro Montpellier
-        position: Marie Skłodowska-Curie postdoctoral fellow
-        start_date: 2015
-        end_date: 2016
-      - company: University of Fribourg
-        position: Postdoctoral researcher
-        start_date: 2013
-        end_date: 2014
+      - institution: Université Joseph Fourier, Grenoble
+        area: Biology and Geology
+        studyType: BSc (1st and 2nd years)
+        start_date: 2003
+        end_date: 2005
+
+    Awards:
+      - title: National Centre for Palms & Dates International Prize, Best Scientific Research
+        date: 2023
+        awarder: National Centre for Palms & Dates, Saudi Arabia
+        summary: For Gros-Balthazard, Battesti et al. (2023), Plants, People, Planet.
+      - title: Khalifa International Award for Date Palm and Agricultural Innovation
+        date: 2018
+        awarder: United Arab Emirates
+        summary: Category Distinguished innovative studies and modern technology, for Gros-Balthazard et al. (2017), Current Biology.
+
+    Grants obtained:
+      - label: 2019-2025
+        details: "Al-ʿUlā DPA: al-ʿUlā Date Palm Agrobiodiversity. French Agency for AlUla Development (AFALULA), 1 M€. Co-PI with V. Battesti (CNRS)."
+      - label: 2015-2016
+        details: "OliveGene: genes under selection during olive domestication. Marie Skłodowska-Curie fellowship, AgreenSkills programme."
+      - label: 2009-2012
+        details: Doctoral contract with teaching assignment, Université de Montpellier.
+
+    Collaborative projects:
+      - label: 2024-2029
+        details: "BOSTAN TREE: Bioarchaeology of Orchards and Sustainable Terroir in the Arid Near East. ERC, PI G. Bar-Oz (University of Haifa)."
+      - label: 2024-2028
+        details: "daTEpalm: impact of transposable elements in the date palm. ANR JCJC, PI Y. Bourgeois (IRD)."
+      - label: 2024-2028
+        details: "RainForStory: emergence and diffusion of agriculture in the Congo Basin rainforests. ANR, PI J. Duminil (IRD)."
+      - label: 2022-2027
+        details: Date Palm Genome Diversity Project. NYU Abu Dhabi, PI M. Purugganan.
+      - label: 2024
+        details: Introgression from cultivated plants to wild relatives. COGEM (Netherlands), PI M. Veltman (IRD).
+      - label: 2023-2024
+        details: "UCHUAIA: Unveiling Crop History Using Ancient DNA In Archaeobotanical remains. UMR DIADE, PI P. Cubry and L. Champion."
+      - label: 2019-2024
+        details: "SoFunLand: soil functioning and land uses at AlUla. AFALULA, PI M. Ducousso (CIRAD)."
+      - label: 2013-2019
+        details: "OliveMed: varietal diversification and adaptation of olive to climate change. Agropolis Fondation, PI B. Khadari."
+      - label: 2010-2011
+        details: "Date palm agrobiodiversity in Morocco. CNRS-CNRST cooperation, PI J.-F. Terral and M.A. Elhoumaizi."
+      - label: 2006-2010
+        details: Origin and evolution of oasis agriculture in the Middle East and Egypt. ANR, PI M. Tengberg.
+
+    Supervision:
+      - label: Postdocs
+        details: Ernesto Testé (2024-2025, 50%), Vincent Bonhomme (2023-2025, 90%), Muneera Almssallem (2023, 50%).
+      - label: PhD students
+        details: Margot Besseiche (2022-, 60%), Jeronimo Cid (2021-, 20%), Alexandre Robin-Soriano (2021-, 20%), Matthieu Breil (2020-2021, 70%).
+      - label: Master students
+        details: V. Grenet (M2, 2024), E. Brandstatt (2023), M. Besseiche (M2, 2022), R. Noraz (M1, 2022), T. Kaczmarek (M2, 2021), J. Morarin (M2, 2017), S. Bourguet (M2, 2013), C. Ogéron (M1, 2011).
+      - label: Bachelor students
+        details: A.-H. Pierre (L3, 2012).
+
+    Teaching:
+      - label: 2022
+        details: Ancient DNA training school, Leukerbad, Switzerland (PhD students, ~10 h).
+      - label: 2021
+        details: Lecture on plant domestication and date palm evolution, KAUST, Saudi Arabia (MSc and PhD students, 3 h).
+      - label: 2014
+        details: Population genetics, GUYAMAZ training school (IRD), Manaus, Brazil (MSc and PhD students, ~20 h).
+      - label: 2009-2012
+        details: Practical classes in animal and plant biology, plant phylogeny, and supervision of student projects, Université de Montpellier (BSc students, ~250 h).
+
+    Service and expertise:
+      - label: 2022-
+        details: Steering committee member, Crop History Consortium (CHC).
+      - label: 2022-
+        details: Sustainability working group, UMR DIADE (co-lead of the Diversity and Inclusion axis).
+      - label: 2021-
+        details: Co-organizer of the DYNADIV team meetings.
+      - label: 2024
+        details: Co-organizer, conference on introgression, Montpellier.
+      - label: 2023
+        details: Invited panelist, KAUST Research Open Week, Thuwal, Saudi Arabia.
+      - label: 2022
+        details: Invited expert, FAO and UNESCO initiative on conserving date palm varietal diversity.
+      - label: 2021
+        details: Invited panelist, International Conference on Dates, Riyadh, Saudi Arabia.
+      - label: 2019-2020
+        details: Co-organizer, Center for Genomics and Systems Biology conference, NYU Abu Dhabi.
+      - label: Reviewer
+        details: Molecular Ecology, Molecular Biology and Evolution, BMC Genomics, Vegetation History and Archaeobotany, PLoS ONE, Botany Letters, PCI Evol Biol.
+
+    Outreach and media:
+      - label: 2023
+        details: Interview, Cosinus no. 260 (science magazine for young readers).
+      - label: 2022
+        details: Interviews, Smithsonian Magazine and Socialter.
+      - label: 2021-2024
+        details: Popular science texts for the AlUla Oasis Museum catalogue and the book AlUla, Wonder of Arabia (Skira).
+      - label: 2009-2012
+        details: Fête de la Science, Université de Montpellier.
+
+    Memberships:
+      - bullet: European Association of Archaeologists
+      - bullet: European Society for Evolutionary Biology
+      - bullet: Society for Molecular Biology and Evolution
+
+    Languages:
+      - language: French
+        fluency: Native
+      - language: English
+        fluency: Fluent
+      - language: Arabic
+        fluency: Intermediate
+      - language: Italian
+        fluency: Elementary
