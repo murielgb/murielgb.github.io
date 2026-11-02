@@ -95,14 +95,14 @@ cv:
         details: Doctoral contract with teaching assignment, Université de Montpellier.
 
     Collaborative projects:
-      - label: 2024-2029
-        details: "BOSTAN TREE: Bioarchaeology of Orchards and Sustainable Terroir in the Arid Near East. ERC, PI G. Bar-Oz (University of Haifa)."
       - label: 2024-2028
         details: "daTEpalm: impact of transposable elements in the date palm. ANR JCJC, PI Y. Bourgeois (IRD)."
       - label: 2024-2028
         details: "RainForStory: emergence and diffusion of agriculture in the Congo Basin rainforests. ANR, PI J. Duminil (IRD)."
       - label: 2022-2027
         details: Date Palm Genome Diversity Project. NYU Abu Dhabi, PI M. Purugganan.
+      - label: 2024-2029
+        details: "BOSTAN TREE: Bioarchaeology of Orchards and Sustainable Terroir in the Arid Near East. ERC, PI G. Bar-Oz (University of Haifa)."
       - label: 2024
         details: Introgression from cultivated plants to wild relatives. COGEM (Netherlands), PI M. Veltman (IRD).
       - label: 2023-2024
@@ -117,10 +117,10 @@ cv:
         details: Origin and evolution of oasis agriculture in the Middle East and Egypt. ANR, PI M. Tengberg.
 
     Supervision:
-      - label: Postdocs
-        details: Ernesto Testé (2024-2025, 50%), Vincent Bonhomme (2023-2025, 90%), Muneera Almssallem (2023, 50%).
+      - label: Postdocs and other supervision
+        details: Ernesto Testé (2024-2026), Vincent Bonhomme (2023-2027), Muneera Almssallem (2023).
       - label: PhD students
-        details: Margot Besseiche (2022-, 60%), Jeronimo Cid (2021-, 20%), Alexandre Robin-Soriano (2021-, 20%), Matthieu Breil (2020-2021, 70%).
+        details: Margot Besseiche (2022-2025), Jeronimo Cid (2021-2026), Alexandre Robin-Soriano (2021-2024).
       - label: Master students
         details: V. Grenet (M2, 2024), E. Brandstatt (2023), M. Besseiche (M2, 2022), R. Noraz (M1, 2022), T. Kaczmarek (M2, 2021), J. Morarin (M2, 2017), S. Bourguet (M2, 2013), C. Ogéron (M1, 2011).
       - label: Bachelor students
