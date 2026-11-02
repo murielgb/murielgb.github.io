@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-from-october-to-december-2026-i-am-based-in-cairo-hosted-by-the-institut-français-d-archéologie-orientale-ifao-to-develop-new-research-partnerships-on-the-date-palm-in-egypt-layout-post-date-2026-10-17-inline-true-related-posts-false-our-study-of-farmers-knowledge-of-date-palm-diversity-in-taghit-oasis-south-western-algeria-combining-folk-nomenclature-fruit-morphometrics-and-four-decades-of-varietal-turnover-has-been-accepted-for-publication-the-preprint-is-available-now-stay-tuned-for-the-final-version-layout-post-date-2026-09-01-inline-true-related-posts-false-new-reference-genome-for-the-date-palm-a-gap-free-telomere-to-telomere-assembly-of-the-variety-ajwa-together-with-19-additional-high-quality-genome-assemblies-including-the-barnī-from-al-ʿulā-oasis-now-published-in-scientific-data-celii-et-al-2026",
+            },},{id: "news-from-october-to-december-2026-i-am-based-in-cairo-hosted-by-the-institut-français-d-archéologie-orientale-ifao-to-develop-new-research-partnerships-on-the-date-palm-in-egypt",
           title: 'From October to December 2026, I am based in Cairo, hosted by the...',
           description: "",
           section: "News",},{id: "projects-project-1",
