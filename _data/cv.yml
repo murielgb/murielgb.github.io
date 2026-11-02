@@ -5,7 +5,7 @@ cv:
   location: Montpellier, France
   image: ""
   summary: Evolutionary biologist studying the diversity, domestication, and
-    evolutionary history of the date palm (Phoenix dactylifera) and its wild
+    evolutionary history of the date palm (_Phoenix dactylifera_) and its wild
     relatives. My research combines population genomics, archaeogenomics,
     archaeobotany, seed morphometrics, and ethnobotany to understand how crop
     diversity emerged and evolved through interactions between humans and plants.
@@ -72,7 +72,7 @@ cv:
       - institution: University of Sussex, United Kingdom
         area: General Biology (Erasmus exchange)
         studyType: BSc (3rd year)
-        location: Brighton, United Kingdom
+        location: Brighton, UK
         start_date: 2005
         end_date: 2006
       - institution: Université Joseph Fourier, Grenoble
@@ -123,10 +123,12 @@ cv:
         details: Origin and evolution of oasis agriculture in the Middle East and Egypt. ANR, PI M. Tengberg.
 
     Supervision:
-      - label: Postdocs and other supervision
+      - label: Postdoctoral and visiting researchers
         details: Ernesto Testé (2024-2026), Vincent Bonhomme (2023-2027), Muneera Almssallem (2023).
       - label: PhD students
-        details: Margot Besseiche (2022-2025), Jeronimo Cid (2021-2026), Alexandre Robin-Soriano (2021-2024).
+        details: Rami Boumendjel (2025-present), Margot Besseiche (2022-2025), Jeronimo Cid (2021-2026), Alexandre Robin-Soriano (2021-2024).
+      - label: Technicians and bioinformaticians
+        details: Michael Dhar (2018-2024), Sylvie Ferrand (2018-2024), Théophile Mouton (2024-2025), some as freelancers.
       - label: Master students
         details: V. Grenet (M2, 2024), E. Brandstatt (2023), M. Besseiche (M2, 2022), R. Noraz (M1, 2022), T. Kaczmarek (M2, 2021), J. Morarin (M2, 2017), S. Bourguet (M2, 2013), C. Ogéron (M1, 2011).
       - label: Bachelor students
