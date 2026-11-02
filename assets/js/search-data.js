@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-people",
-          title: "People",
-          description: "Main collaborators, current and former students and postdoctoral researchers, and consultants.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Peer-reviewed articles, book chapters, and other publications.",
