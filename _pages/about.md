@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher in evolutionary biology studying the diversity and evolutionary history of the date palm, *Phoenix dactylifera*, and its wild relatives. My work combines population genomics, archaeogenomics, archaeobotany, and ethnobotany to investigate how date palm diversity emerged, evolved through time, and has been maintained across oasis agroecosystems.
+I am a researcher in evolutionary biology studying the diversity and evolutionary history of the date palm, _Phoenix dactylifera_, and its wild relatives. My work combines population genomics, archaeogenomics, archaeobotany, and ethnobotany to investigate how date palm diversity emerged, evolved through time, and has been maintained across oasis agroecosystems.
 
 I am particularly interested in the relationships between past and present diversity, including the roles of domestication, gene flow with wild relatives, and farmer practices in shaping agrobiodiversity. My research integrates genetic, morphological, archaeological, and ethnobotanical data to better understand the long-term dynamics of date palm cultivation.
 
