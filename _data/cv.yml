@@ -50,6 +50,7 @@ cv:
       - institution: Université de Montpellier
         area: Biology
         studyType: Habilitation à diriger des recherches (HDR)
+        location: Montpellier, France
         start_date: 2025
         end_date: 2025
         summary: Histoire et durabilité des agrosystèmes oasiens. L'agrobiodiversité conjuguée à tous les temps.
@@ -63,16 +64,19 @@ cv:
       - institution: Université Joseph Fourier, Grenoble, and Université Montpellier II
         area: Biodiversity, Ecology and Environment; Palaeontology, Palaeobiology and Phylogeny (M1)
         studyType: MSc
+        location: Grenoble, France
         start_date: 2006
         end_date: 2009
       - institution: University of Sussex, United Kingdom
         area: General Biology (Erasmus exchange)
         studyType: BSc (3rd year)
+        location: Brighton, United Kingdom
         start_date: 2005
         end_date: 2006
       - institution: Université Joseph Fourier, Grenoble
         area: Biology and Geology
         studyType: BSc (1st and 2nd years)
+        location: Grenoble, France
         start_date: 2003
         end_date: 2005
 
