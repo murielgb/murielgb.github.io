@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: People
 description: Main collaborators, current and former students and postdoctoral researchers, and consultants.
-nav: true
+nav: false
 nav_order: 3
 
 profiles:
