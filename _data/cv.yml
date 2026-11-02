@@ -28,11 +28,13 @@ cv:
         position: Research scientist (Chargée de recherche)
         location: Montpellier, France
         start_date: 2020
+        end_date: Present
       - company: New York University Abu Dhabi, Purugganan Lab
-        position: Research scientist and coordinator of the Date Palm Genomics project
-        location: Abu Dhabi, United Arab Emirates
+        position: Research scientist
+        location: Abu Dhabi, UAE
         start_date: 2018
         end_date: 2020
+        summary: Coordinator of the Date Palm Genomics project.
       - company: UMR AGAP, SupAgro Montpellier
         position: Marie Skłodowska-Curie postdoctoral fellow
         location: Montpellier, France
