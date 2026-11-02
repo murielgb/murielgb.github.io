@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.ird.fr" style="font-weight:bold">French National Research Institute for Sustainable Development</a><br>Institut de Recherche pour le Développement (IRD)<br><a href="https://www.umr-diade.fr">UMR DIADE</a>, <a href="https://sites.google.com/site/plantbiodiversityadaptation/home">équipe DYNADIV</a>
+subtitle: <a href="https://www.ird.fr" style="font-weight:bold">French National Research Institute for Sustainable Development</a><br>Institut de Recherche pour le Développement (IRD)<br><a href="https://www.umr-diade.fr">UMR DIADE</a>, <a href="https://sites.google.com/site/plantbiodiversityadaptation/home">équipe DYNADIV</a><br>911 Avenue Agropolis, 34394 Montpellier, France<br><a href="mailto:muriel.gros-balthazard@ird.fr">muriel.gros-balthazard@ird.fr</a>
 
 profile:
   align: right
