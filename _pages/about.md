@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="#">French National Research Institute for Sustainable Development</a><br>Institut de Recherche pour le Développement (IRD)
+subtitle: <a href="https://www.ird.fr"><strong>French National Research Institute for Sustainable Development</strong></a><br>Institut de Recherche pour le Développement (IRD)<br><a href="https://www.umr-diade.fr">UMR DIADE</a>, <a href="https://sites.google.com/site/plantbiodiversityadaptation/home">équipe DYNADIV</a>
 
 profile:
   align: right
@@ -30,4 +30,3 @@ latest_posts:
 I am a researcher in evolutionary biology studying the diversity and evolutionary history of the date palm, _Phoenix dactylifera_, and its wild relatives. My work combines population genomics, archaeogenomics, archaeobotany, and ethnobotany to investigate how date palm diversity emerged, evolved through time, and has been maintained across oasis agroecosystems.
 
 I am particularly interested in the relationships between past and present diversity, including the roles of domestication, gene flow with wild relatives, and farmer practices in shaping agrobiodiversity. My research integrates genetic, morphological, archaeological, and ethnobotanical data to better understand the long-term dynamics of date palm cultivation.
-
