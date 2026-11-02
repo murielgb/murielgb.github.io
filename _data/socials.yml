@@ -4,6 +4,8 @@
 #cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: muriel.gros-balthazard@ird.fr # your email address
 scholar_userid: CS_CzwsAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-2587-3946 # your ORCID ID
+research_gate_profile: Muriel-Gros-Balthazard # your profile on ResearchGate
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
