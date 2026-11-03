@@ -2,7 +2,7 @@
 layout: page
 title: Date Palm Big Diversity
 description: Population genomics of date palm history (ongoing)
-img: assets/img/projects/bigdiversity.png
+img: assets/img/projects/bigdiversity.jpg
 importance: 1
 category: work
 related_publications: false
