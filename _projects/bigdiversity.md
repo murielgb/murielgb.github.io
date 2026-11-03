@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Date Palm Big Diversity
-description: Ongoing project
+description: Population genomics of date palm history (ongoing)
 img: assets/img/projects/bigdiversity.png
 importance: 1
 category: work
