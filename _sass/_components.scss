@@ -140,9 +140,16 @@ ul.task-list input[type="checkbox"] {
   .card {
     img {
       width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+
+    .card-title {
+      font-size: 1.4rem;
+      color: #14532d;
     }
   }
-
+  
   .col {
     padding-bottom: 1rem;
   }
