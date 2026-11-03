@@ -37,17 +37,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-study-of-farmers-knowledge-of-date-palm-diversity-in-taghit-oasis-south-western-algeria-combining-folk-nomenclature-fruit-morphometrics-and-four-decades-of-varietal-turnover-has-been-accepted-for-publication-the-preprint-is-available-now-stay-tuned-for-the-final-version",
           title: 'Our study of farmers’ knowledge of date palm diversity in Taghit oasis (south-western...',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
+          section: "News",},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
