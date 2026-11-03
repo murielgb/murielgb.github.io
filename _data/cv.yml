@@ -92,7 +92,11 @@ cv:
         awarder: United Arab Emirates
         summary: Category Distinguished innovative studies and modern technology, for Gros-Balthazard et al. (2017), Current Biology.
 
-    Grants obtained:
+    Funding as PI / co-PI:
+      - label: 2024
+        details: "Tracing the history of cotton through an archaeogenomic approach. UMR DIADE / IRD, 5,760 €. Co-PI with N. Scarcelli (IRD)."
+      - label: 2024
+        details: "Molecular ecology of the argan tree. UMR DIADE / IRD, 12,000 €. Co-PI with Y. Bourgeois (IRD)."
       - label: 2019-2025
         details: "Al-ʿUlā DPA: al-ʿUlā Date Palm Agrobiodiversity. French Agency for AlUla Development (AFALULA), 1 M€. Co-PI with V. Battesti (CNRS)."
       - label: 2015-2016
@@ -100,7 +104,7 @@ cv:
       - label: 2009-2012
         details: Doctoral contract with teaching assignment, Université de Montpellier.
 
-    Collaborative projects:
+    Participation in funded projects:
       - label: 2024-2028
         details: "daTEpalm: impact of transposable elements in the date palm. ANR JCJC, PI Y. Bourgeois (IRD)."
       - label: 2024-2028
