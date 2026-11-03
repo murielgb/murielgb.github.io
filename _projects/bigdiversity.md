@@ -2,7 +2,7 @@
 layout: page
 title: Date Palm Big Diversity
 description: Ongoing project
-img: assets/img/projects/Misfat_PicMGB_Nov2020.JPG
+img: assets/img/projects/bigdiversity.png
 importance: 1
 category: work
 related_publications: false
