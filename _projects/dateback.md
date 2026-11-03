@@ -2,7 +2,7 @@
 layout: page
 title: DateBack
 description: Archaeobotanical review and open-access platform for Phoenix (ongoing)
-img: assets/img/publication_preview/dateBack2_modMGB2.png
+img: assets/img/projects/dateback.png
 importance: 2
 category: work
 related_publications: true
