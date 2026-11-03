@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DateBack
-description: Ongoing project
+description: Archaeobotanical review and open-access platform for Phoenix (ongoing)
 img: assets/img/publication_preview/dateBack2_modMGB2.png
 importance: 2
 category: work
