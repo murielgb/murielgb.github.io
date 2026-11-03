@@ -51,7 +51,7 @@ ninja.data = [{
               window.location.href = "/projects/bigdiversity/";
             },},{id: "projects-dateback",
           title: 'DateBack',
-          description: "Ongoing project",
+          description: "Archaeobotanical review and open-access platform for Phoenix (ongoing)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dateback/";
             },},{id: "teachings-data-science-fundamentals",
