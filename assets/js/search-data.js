@@ -46,7 +46,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-date-palm-big-diversity",
           title: 'Date Palm Big Diversity',
-          description: "Ongoing project",
+          description: "Population genomics of date palm history (ongoing)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bigdiversity/";
             },},{id: "projects-dateback",
