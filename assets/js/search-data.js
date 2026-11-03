@@ -44,7 +44,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-study-of-farmers-knowledge-of-date-palm-diversity-in-taghit-oasis-south-western-algeria-combining-folk-nomenclature-fruit-morphometrics-and-four-decades-of-varietal-turnover-has-been-accepted-for-publication-the-preprint-is-available-now-stay-tuned-for-the-final-version",
           title: 'Our study of farmers’ knowledge of date palm diversity in Taghit oasis (south-western...',
           description: "",
-          section: "News",},{id: "projects-dateback",
+          section: "News",},{id: "projects-date-palm-big-diversity",
+          title: 'Date Palm Big Diversity',
+          description: "Ongoing project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bigdiversity/";
+            },},{id: "projects-dateback",
           title: 'DateBack',
           description: "Ongoing project",
           section: "Projects",handler: () => {
