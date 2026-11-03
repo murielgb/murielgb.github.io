@@ -3,11 +3,12 @@ layout: page
 title: Projects
 permalink: /projects/
 description: Ongoing and completed research projects.
-nav: false
+nav: true
 nav_order: 2
-display_categories: [ongoing, completed]
 horizontal: false
 ---
+
+<p class="text-center"><em>🚧 This page is under construction: more projects coming soon.</em></p>
 
 <!-- pages/projects.md -->
 <div class="projects">
