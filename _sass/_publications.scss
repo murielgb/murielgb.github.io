@@ -72,6 +72,12 @@
         color: #14532d;
       }
 
+      .periodical {
+        color: var(--global-theme-color);
+        font-weight: 500;
+        margin-top: 0.2rem;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
@@ -84,6 +90,7 @@
 
         > em {
           border-bottom: 1px solid;
+          font-weight: bold;
           font-style: normal;
         }
 
