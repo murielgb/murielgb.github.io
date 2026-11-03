@@ -8,10 +8,16 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+  width: 100%;
 
   td,
   th {
     padding: 1px;
+    text-align: center;
+  }
+
+  .badge {
+    min-width: 120px !important;
   }
 }
 
