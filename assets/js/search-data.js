@@ -37,7 +37,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-study-of-farmers-knowledge-of-date-palm-diversity-in-taghit-oasis-south-western-algeria-combining-folk-nomenclature-fruit-morphometrics-and-four-decades-of-varietal-turnover-has-been-accepted-for-publication-the-preprint-is-available-now-stay-tuned-for-the-final-version",
           title: 'Our study of farmers’ knowledge of date palm diversity in Taghit oasis (south-western...',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "projects-dateback",
+          title: 'DateBack',
+          description: "Ongoing project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dateback/";
+            },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
