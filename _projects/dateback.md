@@ -4,7 +4,7 @@ title: DateBack
 description: Archaeobotanical review and open-access platform for Phoenix (ongoing)
 img: assets/img/projects/dateback.png
 importance: 2
-category: work
+category: projects
 related_publications: true
 ---
 
