@@ -2,7 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Ongoing and completed research projects.
+description: Research approaches, ongoing and completed projects.
+display_categories: [approaches, projects, completed]
 nav: false
 nav_order: 2
 horizontal: false
