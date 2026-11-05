@@ -16,7 +16,7 @@ related_publications: true
 
 ### Team and funding
 
-DateBack initially involved (2024–2025) Margot Besseiche, Charlène Bouchaud, Elisa Brandstatt, Elora Chambraud, Vladimir Dabrowski, François Sabot and myself. As of 2026, the team includes Charlène Bouchaud, Elora Chambraud, Vladimir Dabrowski, Claire Newton and myself. It was supported by IRD, MNHN and CNRS, and by AFALULA (al-ʿUlā Date Palm Agrobiodiversity and ECO-Seed projects).
+DateBack initially involved (2024–2025) Charlène Bouchaud, Elora Chambraud, Vladimir Dabrowski, Margot Besseiche, Elisa Brandstatt, François Sabot and myself. As of 2026, the team includes Charlène Bouchaud, Elora Chambraud, Vladimir Dabrowski, Claire Newton and myself. It was supported by IRD, MNHN and CNRS, and by AFALULA (al-ʿUlā Date Palm Agrobiodiversity and ECO-Seed projects).
 
 ### DateBack v1: Southwest and South Asia
 
